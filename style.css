@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hd{
+    background: linear-gradient(rgba(132, 0, 255, 0.2),rgba(50, 117, 241, 0.5));
+    text-align: center;
+}
+.text{
+    background: linear-gradient(rgba(0, 255, 255,0.2),rgba(107, 50, 241, 0.5));
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
